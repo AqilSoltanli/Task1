@@ -4,11 +4,11 @@
 
 ### What I know ?
 
--Java
--Javascript
--Python
--C#
--C++
+- Java
+- Javascript
+- Python
+- C#
+- C++
 
 This my first code line 
 ```
@@ -17,4 +17,4 @@ This my first code line
 This is random picture
 ![github](https://cdn-icons-png.flaticon.com/512/25/25231.png)
 
-[me](https://github.com/AqilSoltanli)
+Please check my new [Github Account](https://github.com/AqilSoltanli)
